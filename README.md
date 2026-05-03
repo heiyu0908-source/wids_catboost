@@ -13,12 +13,10 @@ Predicts 14-day average temperature (tmp2m) using CatBoost with time-series cros
 ## My Role
 Model architecture design, hyperparameter tuning, and training pipeline.
 Team project — teammates handled data collection and feature engineering.
-
 ## Project Structure
-
-├── main/          # Entry point
-├── model/         # CatBoost model class
-├── notebook/      # EDA, preprocessing, modeling, evaluation
+├── main/       # Entry point and training runner
+├── model/      # CatBoost model class
+├── notebook/   # EDA, preprocessing, modelling, evaluation
 └── README.md
 
 ## Key Techniques
