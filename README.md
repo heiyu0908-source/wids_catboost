@@ -25,7 +25,6 @@ Team project — teammates handled data collection and feature engineering.
 - CatBoost Regressor with 2000 iterations, depth=8, learning_rate=0.025
 - 25 selected meteorological features (pressure, wind, sea surface temp, etc.)
 - 5-fold TimeSeriesSplit cross-validation
-- Early stopping (250 rounds)
 
 ## Dataset
 Kaggle WiDS Datathon 2025: https://www.kaggle.com/competitions/widsdatathon2025
